@@ -1,1 +1,1 @@
-# UnityGameTest_InfiniteWorld_LiminalSpace
+# Esc - Exit, Find the white sphere to win.
